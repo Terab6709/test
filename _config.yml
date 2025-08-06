@@ -1,0 +1,17 @@
+title: Monlam AI
+logo: /assets/img/Monlam AI logo.jpg
+description: Artificial intelligence in service of Tibetan language and culture
+show_downloads: False
+theme: jekyll-theme-minimal
+navigation:
+  - title: Home
+    url: /
+  - title: 2023
+    url: /project
+  - title: Our Team
+    url: /partners
+  - title: ས་མིག Jobs
+    url: /jobs
+  - title: བོད་སྐད་ཁ་བརྡ། (GPT)
+    url: /chatbot
+    
